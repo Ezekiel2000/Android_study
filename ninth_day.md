@@ -10,3 +10,7 @@
 * 확대/축소하는 효과는 scale 태그로 지정할 수 있음
 
 
+### ObjectAnimator
+* JellyBean 때부터 ObjectAnimator 가 나왔음
+* XML 대신 Java 코드로 애니메이션 효과들을 기술할 수 있음
+
