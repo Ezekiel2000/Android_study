@@ -24,5 +24,14 @@
 * Style : View 의 속성을 별도로 모아서 이름을 부여해서 재활용해서 쓸 수 있는 기능
 
 
+## Scrolling
+* App Bar 구조에 CollapsingToolbarLayout 이 추가되어서 Toolbar 와 다른 View 를 관리
+* CollapsingToolbarLayout 은 AppBarLayout, scrollable view, FAB 을 자식 View로 두면서 이들을 Coordinate함.
+
+
+
+
+
+
 
 
