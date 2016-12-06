@@ -26,7 +26,8 @@
 
 ## Scrolling
 * App Bar 구조에 CollapsingToolbarLayout 이 추가되어서 Toolbar 와 다른 View 를 관리
-* CollapsingToolbarLayout 은 AppBarLayout, scrollable view, FAB 을 자식 View로 두면서 이들을 Coordinate함.
+* CollapsingToolbarLayout 은 AppBarLayout, scrollable view(RecyclerView), FAB 을 자식 View로 두면서 이들을 Coordinate함.
+* 스크롤 플래그로는 여러가지 것들이 있는데 이것들을 조합하여 스크롤 되게 함
 
 
 
