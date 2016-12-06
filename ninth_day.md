@@ -8,6 +8,7 @@
 * 서서히 사라지거나 나타나게 하는 효과는 alpha 태그로 지정할 수 있음
 * 회전하는 효과는 rotate 태그로 지정할 수 있음
 * 확대/축소하는 효과는 scale 태그로 지정할 수 있음
+* Animation 효과가 바로 적용되는 것이 아니라 onClick 메서드가 리턴되고 나서 main thread 가 처리해줌
 
 
 ### ObjectAnimator
