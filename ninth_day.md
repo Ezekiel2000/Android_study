@@ -30,6 +30,23 @@
 * 스크롤 플래그로는 여러가지 것들이 있는데 이것들을 조합하여 스크롤 되게 함
 
 
+## AsyncTask
+* main thread 로부터 비동기적인 별개의 작업을 처리하고자 할 때 간편하게 작업을 정의해서 이벤트큐에 탑재시키는데 쓸 수 있음
+* 기본적으로 모든 AsyncTask들은 하나의 Worker Thread에 의해 실행되지만, 병렬처리를 하고자 할 경우 Executor와 연계
+* 콜백 메서드
+  - protected void onPreExecute()
+  - protected abstract Result doInBackground()
+  - protected void onProgressUpdate()
+  - protected void onPostExecute()
+
+
+
+
+
+
+
+
+
 
 
 
