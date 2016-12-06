@@ -16,3 +16,13 @@
 * XML 대신 Java 코드로 애니메이션 효과들을 기술할 수 있음
 * AnimatorSet 을 사용하여 Animation 효과들의 속성을 설정할 수 있음
 
+
+
+## Shape / Selector / Style
+* Shape : View 의 테두리 모양을 정의하는 기능
+* Selector : View 의 상태에 따라 달리 적용할 Drawable 의 리스트를 정의하는 기능
+* Style : View 의 속성을 별도로 모아서 이름을 부여해서 재활용해서 쓸 수 있는 기능
+
+
+
+
