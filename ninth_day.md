@@ -13,4 +13,5 @@
 ### ObjectAnimator
 * JellyBean 때부터 ObjectAnimator 가 나왔음
 * XML 대신 Java 코드로 애니메이션 효과들을 기술할 수 있음
+* AnimatorSet 을 사용하여 Animation 효과들을 함께 실행할 수 있음.
 
