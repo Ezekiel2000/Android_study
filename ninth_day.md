@@ -41,6 +41,16 @@
 
 
 
+## Activity Transition
+* Activity 에서 다른 Activity로 번경될 떄, 특정 View간의 이동을 자연스로운 애니메이션으로 표현해주는 기능
+* API Lollipop 부터 지원되기 시작한 기능
+* 
+
+
+
+
+
+
 
 
 
